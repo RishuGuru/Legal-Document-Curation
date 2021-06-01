@@ -5,7 +5,7 @@ from werkzeug import secure_filename
 
 from flask import Flask, make_response
 
-#new
+
 # imporying lexnlp
 from lexnlp_fun import lexnlp_entity
 
