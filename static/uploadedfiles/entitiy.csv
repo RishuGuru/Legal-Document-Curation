@@ -1,0 +1,218 @@
+,Entities,Labels
+0,"day of
+",DATE
+1,the “Agreement”,LAW
+2,"the 14th day of May, 2020
+",DATE
+3,BLACKSANDS PACIFIC ENERGY CORP,ORG
+4,"Delaware Corporation
+",ORG
+5,11601,CARDINAL
+6,Wilshire Boulevard,FAC
+7,Suite 500,FAC
+8,Los Angeles,GPE
+9,Infosys,ORG
+10,9,CARDINAL
+11,Gachibowli,GPE
+12,Hyderabad,GPE
+13,500001,DATE
+14,Party,ORG
+15,Company,ORG
+16,Company,ORG
+17,Parties,ORG
+18,Consultants/Vendor/Contractor,ORG
+19,Company and Consultants/Vendor/Contractor,ORG
+20,Consultants/Vendor/Contractor,ORG
+21,2,CARDINAL
+22,Consultant/Vendor/Contractor,ORG
+23,"the 15th day of the month
+",DATE
+24,the last day of the month,DATE
+25,Consultants/Vendor/Contractor,ORG
+26,30 days,DATE
+27,thirty,DATE
+28,days,DATE
+29,Company,ORG
+30,thirty,CARDINAL
+31,30) days,DATE
+32,thirty,TIME
+33,thirty,CARDINAL
+34,30,DATE
+35,"BSPG MSA
+",ORG
+36,April 2014,DATE
+37,3,CARDINAL
+38,17,CARDINAL
+39,Consultants/Vendor/Contractors,ORG
+40,"this
+Agreement",LAW
+41,social security,ORG
+42,Vendor / Contractor,ORG
+43,4,CARDINAL
+44,Party,ORG
+45,thirty,TIME
+46,30) days,DATE
+47,5,CARDINAL
+48,Company,ORG
+49,Company.,ORG
+50,Confidential Information,ORG
+51,Confidential Information,ORG
+52,"this
+Agreement",LAW
+53,Services,ORG
+54,"this
+Agreement shall",LAW
+55,Comprehensive / Commercial General Liability Insurance,ORG
+56,"5,000,000",MONEY
+57,Combined Single Limit,PRODUCT
+58,Bodily Injury,PERSON
+59,Completed Operations Liability,ORG
+60,Products Liability,ORG
+61,Comprehensive Automobile Liability Insurance,ORG
+62,"1,000,000",MONEY
+63,Combined Single Limit,PRODUCT
+64,"BSPG MSA
+",ORG
+65,April 2014,DATE
+66,4,CARDINAL
+67,17,CARDINAL
+68,Compensation and Employers Liability Insurance,ORG
+69,"Occupational
+Disease",WORK_OF_ART
+70,Jones Act,PERSON
+71,the High Seas Act,LAW
+72,"Federal
+Longshore and Harbor Workers Act",ORG
+73,Outer Continental Shelf Lands Act,ORG
+74,Maritime Employment,ORG
+75,Operations,ORG
+76,"less than $1,000,000",MONEY
+77,The General Liability and Automobile Liability,ORG
+78,"this
+Agreement.",LAW
+79,certificate(s,ORG
+80,Party,ORG
+81,Party,ORG
+82,Party,ORG
+83,Group,ORG
+84,Party,ORG
+85,8,CARDINAL
+86,Consultant Group,ORG
+87,"the
+Company Group",ORG
+88,the Consultant Group,ORG
+89,the Consultant Group,ORG
+90,Consultant Group,ORG
+91,the Company Group,ORG
+92,the Company Group,ORG
+93,"Company
+Group",ORG
+94,April 2014,DATE
+95,17,CARDINAL
+96,Consultant Group’s,ORG
+97,"Consequential Loss and Company
+",ORG
+98,Consultant Group from Company Group’s,ORG
+99,Consequential Loss,WORK_OF_ART
+100,today,DATE
+101,"the
+
+Company",ORG
+102,"the
+Company's",ORG
+103,"the
+
+Company",ORG
+104,"the
+Company's",ORG
+105,Company,ORG
+106,Company,ORG
+107,Consultants/Vendor/Contractors,ORG
+108,"Consultants / Vendor /
+Contractors",ORG
+109,"BSPG MSA
+",ORG
+110,April 2014,DATE
+111,6,CARDINAL
+112,17,CARDINAL
+113,•,ORG
+114,Consultants/Vendor/Contractors,ORG
+115,that month,DATE
+116,Ninety,CARDINAL
+117,90) days,DATE
+118,the Master Service,ORG
+119,10,CARDINAL
+120,SAFTEY,ORG
+121,BLACKSANDS PACIFIC GROUP,ORG
+122,BSPG,ORG
+123,zero,CARDINAL
+124,BSPG,ORG
+125,SAFTEY,ORG
+126,"Health and Safety
+Guideline",ORG
+127,the Consultants/Vendors/Contractors,ORG
+128,Health and Safety Policy,ORG
+129,MSA,ORG
+130,April 2014,DATE
+131,7,CARDINAL
+132,17,CARDINAL
+133,Health and Safety,ORG
+134,Company,ORG
+135,Consultants/Vendors/Contractors,ORG
+136,Health and Safety,ORG
+137,the Master Service Agreement,ORG
+138,11,CARDINAL
+139,Consultants/Vendor/Contractors,ORG
+140,Company and Consultants/Vendor/Contractors,ORG
+141,12,CARDINAL
+142,"the
+State of California",GPE
+143,the United States,GPE
+144,"Outer
+Continental Shelf",ORG
+145,the General Maritime Law,ORG
+146,California,GPE
+147,13,CARDINAL
+148,"BSPG MSA
+",ORG
+149,April 2014,DATE
+150,8,CARDINAL
+151,17,CARDINAL
+152,first,ORDINAL
+153,"Blacksands Pacific Energy Corp.
+",ORG
+154,Wilshire Boulevard,FAC
+155,500,CARDINAL
+156,Los Angeles,GPE
+157,90025,CARDINAL
+158,Title/Position,ORG
+159,Title/Position,ORG
+160,"HEALTH & SAFTEY
+",ORG
+161,Title/Position,ORG
+162,"BSPG MSA
+",ORG
+163,April 2014,DATE
+164,9,CARDINAL
+165,17,CARDINAL
+166,"BLACKSANDS PACIFIC GROUP
+",ORG
+167,Company,ORG
+168,Company,ORG
+169,Company,ORG
+170,Company,ORG
+171,Company,ORG
+172,Company,ORG
+173,Company,ORG
+174,MSA,ORG
+175,April 2014,DATE
+176,10,CARDINAL
+177,17,CARDINAL
+178,"BSPG MSA
+",ORG
+179,April 2014,DATE
+180,11,CARDINAL
+181,17,CARDINAL
+182,"BSPG MSA
+",ORG
+183,April 2014,DATE
